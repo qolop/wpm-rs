@@ -1,0 +1,8 @@
+[package]
+name = "wpm"
+version = "0.1.0"
+authors = ["pmccann"]
+
+[dependencies]
+rand = "*"
+stopwatch = "0.0.7"
